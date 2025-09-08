@@ -6,7 +6,16 @@
       "icon": "Star",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1757296361075_4xgjkivfu",
+          "title": "Gitea: Git with a cup of tea",
+          "href": "http://39.106.69.11:3000/",
+          "description": "Gitea (Git with a cup of tea) is a painless self-hosted Git service written in Go",
+          "icon": "/assets/favicon_1757296351152.svg",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
